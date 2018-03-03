@@ -30,17 +30,17 @@ public class MilesGUI {
   String[] cities;                        // names of cities
   String[] months;                        // list of months used for JSpinner
 
-  JTextField reqOutput = new JTextField();
-  JTextField upgradeOutput = new JTextField();
-  JTextField superSaverOutput = new JTextField();
-  JTextField monthsOutput = new JTextField();
+  JTextField reqOutput = new JTextField();        // required miles output
+  JTextField upgradeOutput = new JTextField();    // upgrade miles output
+  JTextField superSaverOutput = new JTextField(); // SuperSaver miles output
+  JTextField monthsOutput = new JTextField();     // SuperSaver months output
 
-  JTextField milesInput;
-  JTextArea results;
-  JTextField remMiles;
+  JTextField milesInput;    // user types accumulated miles here
+  JTextArea results;        // text area where list of results will be displayed
+  JTextField remMiles;      // display of remaining miles after redeeming
 
-  SpinnerModel model;
-  JSpinner monthInput;
+  SpinnerModel model;       // spinner model used within the JSpinner
+  JSpinner monthInput;      // selection of months
 
   JButton button;
 
