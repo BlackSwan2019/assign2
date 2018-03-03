@@ -15,8 +15,10 @@ Purpose:      Shows which destinations you can fly to using your air miles; if p
 
 public class MilesApp {
   public static void main(String[] args) {
+    // Create MilesGUI object.
     MilesGUI app = new MilesGUI(args[0]);
 
+    // Make, populate, and begin app.
     app.go();
   }
 }
