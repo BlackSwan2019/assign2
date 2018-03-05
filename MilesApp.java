@@ -1,12 +1,12 @@
 /************************************************************************
 CSCI 470 section 1
-TA:
+TA:           Priyanka	Kondapuram
 Partner 1     Ben Lane
 zID:		      z1806979
 Partner 2:    Jinhong Yao
 zID:		      z178500
 Assignment:   1
-Date Due:	    2/14/2018
+Date Due:	    3/21/2018
 
 Purpose:      Shows which destinations you can fly to using your air miles; if possible,
               using supersaver miles. Using the remaining miles, it will upgrade farthest
