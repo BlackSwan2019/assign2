@@ -5,7 +5,7 @@ Partner 1     Ben Lane
 zID:		      z1806979
 Partner 2:    Jinhong Yao
 zID:		      z178500
-Assignment:   1
+Assignment:   2
 Date Due:	    3/21/2018
 
 Purpose:      Shows which destinations you can fly to using your air miles; if possible,
